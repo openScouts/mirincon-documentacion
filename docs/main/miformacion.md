@@ -4,7 +4,7 @@
 
 ### Insignia de Madera
 Visualizacion de IMs
-![im](/doc/main/im.png)
+
 
 ### Formacion Cursada
 La Herramienta permite visualizar todas las experiencias realizadas,
@@ -14,7 +14,7 @@ La Herramienta permite visualizar todas las experiencias realizadas,
 :::
 
 
-![formacion](/doc/main/formacion.png)
+
 
 
 Desde el listado de Formacion, se podra descargar los certificados de las experiencias cursadas.

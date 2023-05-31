@@ -19,7 +19,7 @@ Solo las personas con función de AZAMS o ADAMS pueden crear eventos.
 El menú de Mi Rincón, esta divido en 4 opciones.
 
 
-![clave](/doc/eventos/menu.png)
+
 
 ### Administración.
 Los organismos que crearon el evento, podrán administrar al mismo, el resto de las personas que accedan, solo podrán visualizar la información del mismo, y ver solamente la membresía permitida en base a su función.
