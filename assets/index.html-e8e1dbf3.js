@@ -1,0 +1,1 @@
+import{_ as n,o as c,c as t,a as e,b as a}from"./app-48d19359.js";const o={},r=e("h1",{id:"mi-rincon",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mi-rincon","aria-hidden":"true"},"#"),a(" MI Rincon")],-1),i=[r];function s(_,d){return c(),t("div",null,i)}const l=n(o,[["render",s],["__file","index.html.vue"]]);export{l as default};

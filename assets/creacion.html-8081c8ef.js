@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3052aac2","path":"/eventos/creacion.html","title":"Gestion de Eventos","lang":"es-ES","frontmatter":{"title":"Gestion de Eventos"},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"eventos/creacion.md"}');export{e as data};

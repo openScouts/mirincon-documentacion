@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5f63c460","path":"/main/trabajos.html","title":"Gestion de Trabajos","lang":"es-ES","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"main/trabajos.md"}');export{a as data};

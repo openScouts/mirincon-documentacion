@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39a9e4d2","path":"/ingreso/","title":"Ingreso al sistema.","lang":"es-ES","frontmatter":{"title":"Ingreso al sistema."},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"ingreso/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a28ddf82","path":"/main/inscripciones.html","title":"Inscripciones","lang":"es-ES","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"main/inscripciones.md"}');export{a as data};

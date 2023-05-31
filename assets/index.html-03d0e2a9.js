@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3b056474","path":"/formacion/","title":"MI Rincon","lang":"es-ES","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"formacion/README.md"}');export{a as data};

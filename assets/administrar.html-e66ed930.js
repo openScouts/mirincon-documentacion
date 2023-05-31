@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3c3ce34a","path":"/eventos/administrar.html","title":"administrar de Eventos","lang":"es-ES","frontmatter":{"title":"administrar de Eventos"},"headers":[],"git":{"contributors":[{"name":"Andres Lacquaniti","email":"hal@caseroft.com.ar","commits":1}]},"filePathRelative":"eventos/administrar.md"}');export{t as data};

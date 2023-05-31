@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,a as e,b as s}from"./app-48d19359.js";const r={},c=e("h1",{id:"gestion-de-trabajos",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gestion-de-trabajos","aria-hidden":"true"},"#"),s(" Gestion de Trabajos")],-1),n=[c];function d(_,i){return t(),o("div",null,n)}const l=a(r,[["render",d],["__file","trabajos.html.vue"]]);export{l as default};
